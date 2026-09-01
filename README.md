@@ -90,6 +90,16 @@ Validation focused on:
 
 Users are clearly informed that they are interacting with an AI interviewer and that responses are evaluated automatically.
 
+
+
+## 👩‍💻 Author
+
+**Name:** Achala Kumari
+**Branch:** B.Tech – Computer Science & Engineering
+**University:** KIIT University
+**Graduation Year:** 2027
+
+
 ---
 
 **InterviewAI | Product Intern Assignment**
