@@ -67,19 +67,19 @@ Validation focused on:
 <img width="944" height="409" alt="Screenshot 2026-09-02 013954" src="https://github.com/user-attachments/assets/64c2c24c-0c5e-4d9a-b568-b01e3229850e" />
 
 
-<img width="820" height="426" alt="Screenshot 2026-09-02 014044" src="https://github.com/user-attachments/assets/a1ee7aeb-0789-433f-9e73-c628838861cd" />
+<img width="944" height="409" alt="Screenshot 2026-09-02 014044" src="https://github.com/user-attachments/assets/a1ee7aeb-0789-433f-9e73-c628838861cd" />
 
 
-<img width="780" height="423" alt="Screenshot 2026-09-02 014217" src="https://github.com/user-attachments/assets/a85bd630-9e73-41b1-8186-c1bf5c046bc9" />
+<img width="944" height="409" alt="Screenshot 2026-09-02 014217" src="https://github.com/user-attachments/assets/a85bd630-9e73-41b1-8186-c1bf5c046bc9" />
 
 
-<img width="513" height="294" alt="Screenshot 2026-09-02 014200" src="https://github.com/user-attachments/assets/0080ad12-a077-4b6c-8a08-8c08da6cb713" />
+<img width="944" height="409" alt="Screenshot 2026-09-02 014200" src="https://github.com/user-attachments/assets/0080ad12-a077-4b6c-8a08-8c08da6cb713" />
 
 
-<img width="743" height="413" alt="Screenshot 2026-09-02 014544" src="https://github.com/user-attachments/assets/c7661cfd-07f7-4dd0-902d-a1f3a712548d" />
+<img width="944" height="409" alt="Screenshot 2026-09-02 014544" src="https://github.com/user-attachments/assets/c7661cfd-07f7-4dd0-902d-a1f3a712548d" />
 
 
-<img width="754" height="285" alt="Screenshot 2026-09-02 014558" src="https://github.com/user-attachments/assets/6c4ee608-7951-43bc-93e4-14c694dcf11f" />
+<img width="944" height="409" alt="Screenshot 2026-09-02 014558" src="https://github.com/user-attachments/assets/6c4ee608-7951-43bc-93e4-14c694dcf11f" />
 
 
 
