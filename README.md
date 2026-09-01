@@ -1,2 +1,9 @@
 # InterviewAI
-AI-powered mock interview platform with an interactive AI interviewer and automated feedback.
+
+An AI-powered mock interview platform that helps students practice realistic interviews and receive structured feedback.
+
+## 🚀 Live Product
+
+**Try InterviewAI:**
+[https://interviewai-mock-pla-47tl.bolt.host/]
+
