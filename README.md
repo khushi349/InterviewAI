@@ -60,7 +60,7 @@ Validation focused on:
 ## 📄 Product Assignment Report
 
 **Product case study:**
-[https://drive.google.com/file/d/193yyT8E1sOrrk_ntLZmGXcrg7ZD8GUls/view?usp=sharing]
+[https://drive.google.com/file/d/1K33GMaV_8--eiPxE1aQkxd5IIxZApZZR/view?usp=sharing]
 
 ## 🖼️ Screenshots
 
